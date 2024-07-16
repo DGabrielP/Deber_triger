@@ -47,7 +47,7 @@
 `$$ LANGUAGE plpgsql;`  
 
 ![subconsulta 3](capturas/cap3.PNG)
-![subconsulta 3](capturas/cap3.3.PNG)
+![subconsulta 3](capturas/cap3.1.PNG)
 
 ## 4. Crear un función y un trigger para la tabla client y validar que el correo tenga un @:
 ### Sentencia
@@ -62,7 +62,7 @@
 `$$ LANGUAGE plpgsql;`  
 
 ![subconsulta 4](capturas/cap4.PNG)
-![subconsulta 4](capturas/cap4.4.PNG)
+![subconsulta 4](capturas/cap4.1.PNG)
 
 
 
